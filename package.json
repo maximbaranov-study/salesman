@@ -1,0 +1,12 @@
+{
+  "name": "salesman",
+  "version": "1.0.0",
+  "description": "Travelling salesman - a dealer looking for the shortest path",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Maxim Baranov",
+  "license": "ISC"
+}
